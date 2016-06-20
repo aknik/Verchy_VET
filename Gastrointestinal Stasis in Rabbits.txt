@@ -1,0 +1,65 @@
+
+Gastrointestinal Stasis in Rabbits and Rodents
+Hanspeter W. Steinmetz, Dr.med.vet., MSc; Marcus Clauss, PD, Dr.med.vet., DECVCN
+University of Zürich, Zürich, Switzerland
+
+Read the German translation: Gastrointestinale Stase bei Kaninchen und Nagetieren
+
+Introduction
+
+Many disease problems in rabbits and rodents are directly or indirectly diet-related. Inversely, many diseases outside the digestive tract have also a direct or indirect impact on the gastrointestinal tract either through pain, reduced exercise, poor food or water consumption. Problems induced by diet, poor health status or anorexia often involve the disruption of the animals gastrointestinal motility, which can lead to a critical situation in short time. Therefore, the current report should give a brief overview of the pathophysiology, early diagnosis, prevention, and treatment of the gastrointestinal stasis syndrome in rabbits and rodents.
+
+Anatomy3,7
+
+Rabbits and the various rodent species have a different gastrointestinal anatomy, physiology and thus different dietary requirements. The gastrointestinal tract in rabbits and porcupine-like rodents (e.g., guinea-pigs, chinchilla and degus) combines a simple stomach with hindgut cecal fermentation and a complex sorting mechanism of ingesta for caecotroph formation in the large intestine; in rabbits, this part of the colon is haustrated, and in rodents it is equipped with a distinct colonic groove. These animals are foli-/herbivorous and require large amounts of crude fiber in the diet for the physiologic digestion process as well as for dental health. In contrast, rat-(rat, mice, gerbils, hamsters) and squirrel-like rodents, are adapted to a granivorous diet and have a smaller cecum and a less pronounced or even missing colonic groove. In addition, the teeth of rabbits and porcupine-like rodents are continuously growing (incisors and cheek teeth), in contrast to rat- and squirrel-like rodents, which have an only limited period of growth in the cheek teeth. The described anatomical and dietary differences might explain the increased occurrence of gastrointestinal stasis in the rabbit and porcupine-like rodent group in captivity.
+
+Pathophysiology1,3,8
+
+Gastrointestinal stasis is a potentially life threatening condition in rabbits and rodents, where muscular contractions of the stomach and intestines are reduced and normal bacterial flora in the digestive tract becomes unbalanced. Reduced gastrointestinal motility can cause ingested hair and food to reside anywhere along the gastrointestinal tract. Harmful bacteria, such as Clostridium species can proliferate, their numbers overwhelming those of the normal, beneficial bacteria and fungi in the gastrointestinal tract. The unphysiologic bacterial flora can produce potentially dangerous endotoxins and / or gas. Gastrointestinal bloat and blockage leads to abdominal pain followed by reduced activity and anorexia. Endotoxin shock and liver damage can occur as a serious life threatening side effect of gastrointestinal stasis. Hepatic lipidosis is a severe threat in every anorectic rabbit or rodent.
+
+Clinic3,5-7,9
+
+Animals with gastrointestinal stasis can quickly become lethargic and may exhibit signs of pain. However, initial signs are reduced appetite. They produce very small (or no) fecal pellets, which may be very dry or encased in clear or yellowish mucus. Excessive gas production may be present. During abdominal auscultation the healthy intestinal sounds may be replaced either by very loud, violent gurgles (gas moving) or silence. The animal usually shows discomfort during abdominal palpation with a tense abdominal wall. The stomach can often be palpated as a hard mass behind the rips, especially in the later stages of the disease and the intestinal tract feels very "doughy", an indication of dehydration. As the disease progresses, animals become totally inappetent and depressed. It adopts a hunched body position and may sit for hours, immobile in the corner of its enclosure. Dehydration occurs very quickly. Remarkably, tenesmus and rectal prolapse can occur in chinchillas as suspected secondary problem of gastrointestinal stasis.
+
+Diagnostic2,5,7,8
+
+Gastrointestinal stasis is typically a presumptive diagnosis. Clinical findings suspicious for gastrointestinal stasis are generally supported by radiology and ultrasonography. Radiologic findings might be inconclusive because blocked ingesta and hairs appear similar to normal ingesta. However, an anorectic animal should have a small stomach filled with less ingesta than normal. In case of gastrointestinal stasis an enlarged gas- and ingesta filled stomach and large amount of intestinal and cecal gas might be present on radiographs. A horseshoe-shaped gas shadow in the stomach is indicative for a trichobezoar, which are abnormal accumulations of hair, and are thought to be a result of the reduced gastrointestinal motility. Ultrasonographic examination can be complicated by large amounts of gastrointestinal gas. But atonic gastrointestinal appearance with unusual large amounts of ingesta is a further indication for a reduced motility of the gastrointestinal tract. A blood sample can aid in differential diagnosis, assist with choice of fluid therapy and offer a prognostic indicator. A lipemic sample or the presence of hyperglycaemia in conjunction with ataxia is a sign of hepatic lipidosis and a poor prognosis. A PCV in excess of 40-45% indicates dehydration. Electrolytes may be completely out of balance in severe cases.
+
+Prevention1,3,7,10
+
+A common cause for gastrointestinal stasis is lack of fiber in the diet, most specifically hay. Hay is essential for normal gastrointestinal function, gut motility and dental health. A healthy diet contains hay, fresh greens, water, and pellets. Hay and fresh greens should meet energy and calcium requirements, provide crude fibers for the physiologic digestive process and adequate dental abrasions and prevent trichobezoars. Water requirements are mainly covered by drinking water and (additionally, never exclusively) fresh greens. Further, pellets and fresh greens provide vitamins and minerals. The diet should be based on 75% of roughage. In addition, animals need access to water at all the times. Water should be offered in open water bowl rather in a bottle with a nipple, but bowls should be filled and cleaned daily because they are easily contaminated. Not recommended food items include all fruits, grains and even certain vegetables with high sugar content (e.g., carrots). In summary, all dietary items should have a high content of crude fiber and water should be offered ad libitum.
+
+Treatment3-7,9
+
+Gastrointestinal stasis should be considered as a serious disease and must be regarded as an emergency situation. Besides the primary problem within the gastrointestinal tract secondary problems like hepatic lipidosis can arise quickly and must be prevented by maintaining a positive energy balance with nutritional support and prompt treatment. Treatment of gastrointestinal stasis is aimed at restoring appetite, correcting electrolyte imbalances, correcting dehydration, stimulation gastric emptying, promoting normal gastrointestinal motility and softening and lubricating impacted food and hair. Primary emergency treatment includes fluid therapy, reduction of gastrointestinal gas, analgesics, and force feeding. Many affected animals are dehydrated or suffering from electrolyte imbalances, therefore rehydration of the patient is probably the most important treatment part. Application of intravenous or subcutaneous Lactated Ringers solution is necessary for rehydration of gastrointestinal content. Gastrointestinal stasis is often accompanied by gastric or intestinal bloat, therefore application of simethicone (65-130 mg/animal po q 1h) is recommended to reduce abdominal discomfort associated with excess gas. In case of bloat a gastric tube may be used under general anaesthesia, to remove gas.
+
+The importance of analgesia to a rabbit or rodent recovery cannot be overstated. It relieves discomfort associated with gastrointestinal stasis, resulting in a more active animal that starts eating sooner and in turn accelerates reactivation of gastrointestinal motility. Meloxicam (0.2-2mg/kg po, sc q 24h), and carprofen (2-5mg/kg po, sc q 24h) are frequently used NSAID. Flunixin meglumine (0.3-2.0mg/kg po, im, iv q 12-24h) is also well tolerated, although it can produce gastric ulcers in some species, thus it should not be given longer than three days. Spasmoanalgesics (0.5-1mg/kg butylscopolamine sc q 12-24h) should be careful used since reduced gastrointestinal motility can result, but have shown good results in combination with a gastrointestinal motility stimulans (metoclopramide 0.2-1.0mg/kg po, sc q 6-8h) when mechanical obstruction were excluded. Anorexia can cause disruption of the sensitive gastrointestinal flora, gastric ulcers and hepatic lipidosis relatively rapidly in these animals. Therefore careful tube feeding with a hay product (e.g., Critical Care, Oxbow Pet Products; Herbi Care Plus, WDT) is indicated to provide the gastrointestinal tract with fiber. Pineapple juice or proteolytic enzymes have been recommended as remedies for trichobezoars. In addition, exercise and careful abdominal massage may help to activate gastrointestinal motility. Application of systemic antibiotics, such as enrofloxacin (10mg/kg q 12h-24h), to decrease bacterial overgrowth is controversial discussed and should be rather given subcutaneously than per orally. Nevertheless treatment should be based on the identified underlying medical problem and corrected (e.g., dental disease, diet). Surgical treatment is rarely indicated. Recovery is often slow, may take several days to weeks and require often hospitalization with intensive nursing care.
+
+References
+
+1.  Bellier R, Gidenne T. Consequences of reduced fibre intake on digestion, rate of passage and caecal microbial activity in the young rabbit. B J Nutr 1996; 75: 353-363.
+
+2.  Capello V, Lennox AM. 2008: Clinical radiology of exotic companion mammals. Blackwell Publishing, Iowa.
+
+3.  Carpenter JW. 2005: Exotic Animal Formulary. Elsevier Saunders, St. Louis.
+
+4.  Hartcourt-Brown F. 2003: Textbook of rabbit medicine; Butterworth Heinemann, Edinburgh.
+
+5.  Meyerholz DK, Haynes JS. Actinobacillus capsulatus septicemia in a domestic rabbit (Oryctolagus cuniculus). J Vet Diagn Invest 2005; 17:83-85.
+
+6.  Pilny AA, Hess L. What is your diagnosis? Gastrointestinal stasis syndrome. J Am Vet Med Assoc 2004; 225: 681-682.
+
+7.  Quesenberry KE, Carpenter JE. 2003: Ferrets, rabbits, and rodents. Clinical medicine and surgery. Saunders, St. Louis.
+
+8.  Redrobe S: Imaging techniques in small mammals. Seminars in Avian and Exotic Pet Medicine 2001; 10: 187-197.
+
+9.  Shrubsole-Cockwill AN, et al. Omental torsion in a guinea pig (Cavia porcellus). Can Vet J; 2008; 49:898-900.
+
+10. Wolf P, et al. The nutrition of the chinchilla as a companion animal--basic data, influences and dependences. J Anim Physiol Anim Nutr (Berl) 2003; 87:129-133.
+
+Speaker Information
+(click the speaker's name to view other papers and abstracts submitted by this speaker)
+
+Hanspeter W. Steinmetz, Dr. med. vet., MSc
+University of Zürich
+Zürich, Switzerland 
